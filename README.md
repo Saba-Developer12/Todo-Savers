@@ -7,11 +7,7 @@ Supports persistence, animations (CTk style), fast UX, scrollable task pane and 
 
 ## 📸 Preview
 
-*(add your screenshots here)*
-
 <img width="512" height="743" alt="Screen-UUID-HW0h8hH9808" src="https://github.com/user-attachments/assets/7cde15a5-9c48-42b0-b7c9-7658cfcf844a" />
-
-```
 
 ---
 
@@ -324,3 +320,4 @@ If you enjoy this project:
 * ⭐ Star the repository
 * 🔱 Fork and contribute
 * 🐛 Report issues
+****
