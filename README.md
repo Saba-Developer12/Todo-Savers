@@ -1,4 +1,4 @@
-#TodoSavers
+# TodoSavers
 
 Modern, clean and ultra-simple task manager built with **CustomTkinter 5**.
 Supports persistence, animations (CTk style), fast UX, scrollable task pane and JSON-based data storage.
