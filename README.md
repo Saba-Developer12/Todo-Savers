@@ -147,29 +147,6 @@ Scrollable container (`CTkScrollableFrame`) containing dynamic frames.
 
 ---
 
-# 🚀 Roadmap (Planned Features)
-
-### 🎯 Version 1.1
-
-* Smooth fade animations
-* Task categories
-* Task priority levels (⭐ ⚠️ ❗)
-* Colored labels
-
-### 🎯 Version 1.2
-
-* Drag & Drop task sorting
-* Deadlines and reminders
-* Dark/Light override
-
-### 🎯 Version 2.0
-
-* Cloud sync (Firebase or SQLite server)
-* Mobile-style UI
-* Export/Import todo lists
-* Encryption mode (AES-256)
-* Themes marketplace
-
 ---
 
 # 🧪 Testing Specification
